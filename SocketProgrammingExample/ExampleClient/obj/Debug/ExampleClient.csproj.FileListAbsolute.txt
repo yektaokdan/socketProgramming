@@ -1,0 +1,33 @@
+E:\SocketProgrammingExample\ExampleClient\bin\Debug\ExampleClient.exe.config
+E:\SocketProgrammingExample\ExampleClient\bin\Debug\ExampleClient.exe
+E:\SocketProgrammingExample\ExampleClient\bin\Debug\ExampleClient.pdb
+E:\SocketProgrammingExample\ExampleClient\bin\Debug\ExampleDataTransferObjects.dll
+E:\SocketProgrammingExample\ExampleClient\bin\Debug\ExampleDataTransferObjects.pdb
+E:\SocketProgrammingExample\ExampleClient\obj\Debug\ExampleClient.csprojResolveAssemblyReference.cache
+E:\SocketProgrammingExample\ExampleClient\obj\Debug\ExampleClient.exe
+E:\SocketProgrammingExample\ExampleClient\obj\Debug\ExampleClient.pdb
+C:\Users\Gökhan\Documents\Visual Studio 2015\Projects\SocketProgrammingExample\ExampleClient\bin\Debug\ExampleClient.exe.config
+C:\Users\Gökhan\Documents\Visual Studio 2015\Projects\SocketProgrammingExample\ExampleClient\obj\Debug\ExampleClient.exe
+C:\Users\Gökhan\Documents\Visual Studio 2015\Projects\SocketProgrammingExample\ExampleClient\obj\Debug\ExampleClient.pdb
+C:\Users\Gökhan\Documents\Visual Studio 2015\Projects\SocketProgrammingExample\ExampleClient\bin\Debug\ExampleClient.exe
+C:\Users\Gökhan\Documents\Visual Studio 2015\Projects\SocketProgrammingExample\ExampleClient\bin\Debug\ExampleClient.pdb
+C:\Users\Gökhan\Documents\Visual Studio 2015\Projects\SocketProgrammingExample\ExampleClient\bin\Debug\ExampleDataTransferObjects.dll
+C:\Users\Gökhan\Documents\Visual Studio 2015\Projects\SocketProgrammingExample\ExampleClient\bin\Debug\ExampleDataTransferObjects.pdb
+C:\Users\Gökhan\Documents\Visual Studio 2015\Projects\SocketProgrammingExample\ExampleClient\obj\Debug\ExampleClient.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\SocketProgrammingExample\ExampleClient\bin\Debug\ExampleClient.exe.config
+C:\Users\Administrator\Desktop\SocketProgrammingExample\ExampleClient\bin\Debug\ExampleClient.exe
+C:\Users\Administrator\Desktop\SocketProgrammingExample\ExampleClient\bin\Debug\ExampleClient.pdb
+C:\Users\Administrator\Desktop\SocketProgrammingExample\ExampleClient\bin\Debug\ExampleDataTransferObjects.dll
+C:\Users\Administrator\Desktop\SocketProgrammingExample\ExampleClient\bin\Debug\ExampleDataTransferObjects.pdb
+C:\Users\Administrator\Desktop\SocketProgrammingExample\ExampleClient\obj\Debug\ExampleClient.exe
+C:\Users\Administrator\Desktop\SocketProgrammingExample\ExampleClient\obj\Debug\ExampleClient.pdb
+C:\Users\Administrator\Desktop\SocketProgrammingExample\ExampleClient\obj\Debug\ExampleClient.csprojResolveAssemblyReference.cache
+C:\Users\Seville\Desktop\Courses\Internert Programming\SocketProgrammingExample\ExampleClient\bin\Debug\ExampleClient.exe.config
+C:\Users\Seville\Desktop\Courses\Internert Programming\SocketProgrammingExample\ExampleClient\bin\Debug\ExampleClient.exe
+C:\Users\Seville\Desktop\Courses\Internert Programming\SocketProgrammingExample\ExampleClient\bin\Debug\ExampleClient.pdb
+C:\Users\Seville\Desktop\Courses\Internert Programming\SocketProgrammingExample\ExampleClient\bin\Debug\ExampleDataTransferObjects.dll
+C:\Users\Seville\Desktop\Courses\Internert Programming\SocketProgrammingExample\ExampleClient\bin\Debug\ExampleDataTransferObjects.pdb
+C:\Users\Seville\Desktop\Courses\Internert Programming\SocketProgrammingExample\ExampleClient\obj\Debug\ExampleClient.csprojAssemblyReference.cache
+C:\Users\Seville\Desktop\Courses\Internert Programming\SocketProgrammingExample\ExampleClient\obj\Debug\ExampleClient.csproj.CopyComplete
+C:\Users\Seville\Desktop\Courses\Internert Programming\SocketProgrammingExample\ExampleClient\obj\Debug\ExampleClient.exe
+C:\Users\Seville\Desktop\Courses\Internert Programming\SocketProgrammingExample\ExampleClient\obj\Debug\ExampleClient.pdb

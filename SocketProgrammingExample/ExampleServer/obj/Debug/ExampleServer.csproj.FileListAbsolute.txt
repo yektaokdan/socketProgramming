@@ -1,0 +1,43 @@
+c:\users\gökhan\documents\visual studio 2015\Projects\SocketProgrammingExample\ExampleServer\bin\Debug\ExampleServer.exe.config
+C:\Users\Gökhan\documents\visual studio 2015\Projects\SocketProgrammingExample\ExampleServer\obj\Debug\ExampleServer.csprojResolveAssemblyReference.cache
+C:\Users\Gökhan\documents\visual studio 2015\Projects\SocketProgrammingExample\ExampleServer\bin\Debug\ExampleServer.exe
+C:\Users\Gökhan\documents\visual studio 2015\Projects\SocketProgrammingExample\ExampleServer\bin\Debug\ExampleServer.pdb
+C:\Users\Gökhan\documents\visual studio 2015\Projects\SocketProgrammingExample\ExampleServer\obj\Debug\ExampleServer.exe
+C:\Users\Gökhan\documents\visual studio 2015\Projects\SocketProgrammingExample\ExampleServer\obj\Debug\ExampleServer.pdb
+E:\SocketProgrammingExample\ExampleServer\bin\Debug\ExampleServer.exe.config
+E:\SocketProgrammingExample\ExampleServer\obj\Debug\ExampleServer.exe
+E:\SocketProgrammingExample\ExampleServer\obj\Debug\ExampleServer.pdb
+E:\SocketProgrammingExample\ExampleServer\bin\Debug\ExampleServer.exe
+E:\SocketProgrammingExample\ExampleServer\bin\Debug\ExampleServer.pdb
+E:\SocketProgrammingExample\ExampleServer\bin\Debug\ExampleDataTransferObjects.dll
+E:\SocketProgrammingExample\ExampleServer\bin\Debug\ExampleDataTransferObjects.pdb
+E:\SocketProgrammingExample\ExampleServer\obj\Debug\ExampleServer.csprojResolveAssemblyReference.cache
+C:\Users\Gökhan\Documents\Visual Studio 2015\Projects\SocketProgrammingExample\ExampleServer\bin\Debug\ExampleDataTransferObjects.dll
+C:\Users\Gökhan\Documents\Visual Studio 2015\Projects\SocketProgrammingExample\ExampleServer\bin\Debug\ExampleDataTransferObjects.pdb
+C:\Users\Administrator\Desktop\SocketProgrammingExample\ExampleServer\bin\Debug\ExampleServer.exe.config
+C:\Users\Administrator\Desktop\SocketProgrammingExample\ExampleServer\bin\Debug\ExampleServer.exe
+C:\Users\Administrator\Desktop\SocketProgrammingExample\ExampleServer\bin\Debug\ExampleServer.pdb
+C:\Users\Administrator\Desktop\SocketProgrammingExample\ExampleServer\bin\Debug\ExampleDataTransferObjects.dll
+C:\Users\Administrator\Desktop\SocketProgrammingExample\ExampleServer\bin\Debug\ExampleDataTransferObjects.pdb
+C:\Users\Administrator\Desktop\SocketProgrammingExample\ExampleServer\obj\Debug\ExampleServer.exe
+C:\Users\Administrator\Desktop\SocketProgrammingExample\ExampleServer\obj\Debug\ExampleServer.pdb
+C:\Users\Administrator\Desktop\SocketProgrammingExample\ExampleServer\obj\Debug\ExampleServer.csprojResolveAssemblyReference.cache
+C:\Users\Seville\Desktop\Courses\Internert Programming\SocketProgrammingExample\ExampleServer\bin\Debug\ExampleServer.exe.config
+C:\Users\Seville\Desktop\Courses\Internert Programming\SocketProgrammingExample\ExampleServer\bin\Debug\ExampleServer.exe
+C:\Users\Seville\Desktop\Courses\Internert Programming\SocketProgrammingExample\ExampleServer\bin\Debug\ExampleServer.pdb
+C:\Users\Seville\Desktop\Courses\Internert Programming\SocketProgrammingExample\ExampleServer\bin\Debug\ExampleDataTransferObjects.dll
+C:\Users\Seville\Desktop\Courses\Internert Programming\SocketProgrammingExample\ExampleServer\bin\Debug\ExampleDataTransferObjects.pdb
+C:\Users\Seville\Desktop\Courses\Internert Programming\SocketProgrammingExample\ExampleServer\obj\Debug\ExampleServer.csprojAssemblyReference.cache
+C:\Users\Seville\Desktop\Courses\Internert Programming\SocketProgrammingExample\ExampleServer\obj\Debug\ExampleServer.csproj.CopyComplete
+C:\Users\Seville\Desktop\Courses\Internert Programming\SocketProgrammingExample\ExampleServer\obj\Debug\ExampleServer.exe
+C:\Users\Seville\Desktop\Courses\Internert Programming\SocketProgrammingExample\ExampleServer\obj\Debug\ExampleServer.pdb
+C:\Users\nadko\Desktop\SocketProgrammingExample\ExampleServer\bin\Debug\ExampleServer.exe.config
+C:\Users\nadko\Desktop\SocketProgrammingExample\ExampleServer\bin\Debug\ExampleServer.exe
+C:\Users\nadko\Desktop\SocketProgrammingExample\ExampleServer\bin\Debug\ExampleServer.pdb
+C:\Users\nadko\Desktop\SocketProgrammingExample\ExampleServer\bin\Debug\ExampleDataTransferObjects.dll
+C:\Users\nadko\Desktop\SocketProgrammingExample\ExampleServer\bin\Debug\ExampleDataTransferObjects.pdb
+C:\Users\nadko\Desktop\SocketProgrammingExample\ExampleServer\obj\Debug\ExampleServer.csprojAssemblyReference.cache
+C:\Users\nadko\Desktop\SocketProgrammingExample\ExampleServer\obj\Debug\ExampleServer.csproj.CoreCompileInputs.cache
+C:\Users\nadko\Desktop\SocketProgrammingExample\ExampleServer\obj\Debug\ExampleServer.csproj.CopyComplete
+C:\Users\nadko\Desktop\SocketProgrammingExample\ExampleServer\obj\Debug\ExampleServer.exe
+C:\Users\nadko\Desktop\SocketProgrammingExample\ExampleServer\obj\Debug\ExampleServer.pdb

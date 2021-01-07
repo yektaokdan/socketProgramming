@@ -1,0 +1,13 @@
+C:\Users\Win10\Source\Repos\NetworkingSamples\MultiClient\bin\Debug\Multi Client.exe.config
+C:\Users\Win10\Source\Repos\NetworkingSamples\MultiClient\bin\Debug\Multi Client.exe
+C:\Users\Win10\Source\Repos\NetworkingSamples\MultiClient\bin\Debug\Multi Client.pdb
+C:\Users\Win10\Source\Repos\NetworkingSamples\MultiClient\obj\Debug\MultiClient.csprojAssemblyReference.cache
+C:\Users\Win10\Source\Repos\NetworkingSamples\MultiClient\obj\Debug\Multi Client.exe
+C:\Users\Win10\Source\Repos\NetworkingSamples\MultiClient\obj\Debug\Multi Client.pdb
+C:\Users\nadko\Desktop\C# Proje\TCP\MultiClient\bin\Debug\Multi Client.exe.config
+C:\Users\nadko\Desktop\C# Proje\TCP\MultiClient\bin\Debug\Multi Client.exe
+C:\Users\nadko\Desktop\C# Proje\TCP\MultiClient\bin\Debug\Multi Client.pdb
+C:\Users\nadko\Desktop\C# Proje\TCP\MultiClient\obj\Debug\MultiClient.csprojAssemblyReference.cache
+C:\Users\nadko\Desktop\C# Proje\TCP\MultiClient\obj\Debug\MultiClient.csproj.CoreCompileInputs.cache
+C:\Users\nadko\Desktop\C# Proje\TCP\MultiClient\obj\Debug\Multi Client.exe
+C:\Users\nadko\Desktop\C# Proje\TCP\MultiClient\obj\Debug\Multi Client.pdb

@@ -1,0 +1,14 @@
+Yekta Okdan 190757039
+
+
+Tcp örneği için talimatlar:
+•Klasör içerisindeki NetworkingSamples projesini açarak yukarıdan MultiServeri seçip çalıştırın.
+•Ardından tekrar klasör içerisinden MultiClient içerisindeki MultiClient.csproj programını açıp yukarıdan clienti seçerek çalıştırın.
+•Program size istek nedir diye soracak, siz merhaba dedikten sonra sayı inputu alacak ve ona göre hayvan isimlerini verecektir.
+•Programdan çıkmak için "exit" yazınız.
+
+Udp örneği için talimatlar:
+•Udp klasörü içerisindeki ChatServer projesini çalıştırın.
+•Ardından ChatClient projesini çalıştırın ve üst tarafta gözüken ip adresini girerek connect diyin.
+•Server ekranında bilgisayarın bağlandığını bir bildirim ile göreceksiniz.
+•İstenen mesajı yazın servera yollanacaktır.

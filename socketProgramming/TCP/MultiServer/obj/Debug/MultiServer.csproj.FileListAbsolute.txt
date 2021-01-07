@@ -1,0 +1,13 @@
+C:\Users\Win10\Source\Repos\NetworkingSamples\MultiServer\bin\Debug\Multi Server.exe.config
+C:\Users\Win10\Source\Repos\NetworkingSamples\MultiServer\bin\Debug\Multi Server.exe
+C:\Users\Win10\Source\Repos\NetworkingSamples\MultiServer\bin\Debug\Multi Server.pdb
+C:\Users\Win10\Source\Repos\NetworkingSamples\MultiServer\obj\Debug\MultiServer.csprojAssemblyReference.cache
+C:\Users\Win10\Source\Repos\NetworkingSamples\MultiServer\obj\Debug\Multi Server.exe
+C:\Users\Win10\Source\Repos\NetworkingSamples\MultiServer\obj\Debug\Multi Server.pdb
+C:\Users\nadko\Desktop\C# Proje\TCP\MultiServer\bin\Debug\Multi Server.exe.config
+C:\Users\nadko\Desktop\C# Proje\TCP\MultiServer\bin\Debug\Multi Server.exe
+C:\Users\nadko\Desktop\C# Proje\TCP\MultiServer\bin\Debug\Multi Server.pdb
+C:\Users\nadko\Desktop\C# Proje\TCP\MultiServer\obj\Debug\MultiServer.csprojAssemblyReference.cache
+C:\Users\nadko\Desktop\C# Proje\TCP\MultiServer\obj\Debug\MultiServer.csproj.CoreCompileInputs.cache
+C:\Users\nadko\Desktop\C# Proje\TCP\MultiServer\obj\Debug\Multi Server.exe
+C:\Users\nadko\Desktop\C# Proje\TCP\MultiServer\obj\Debug\Multi Server.pdb

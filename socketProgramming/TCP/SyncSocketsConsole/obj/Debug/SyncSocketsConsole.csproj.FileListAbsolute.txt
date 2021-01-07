@@ -1,0 +1,6 @@
+C:\Users\Win10\Source\Repos\NetworkingSamples\SyncSocketsConsole\bin\Debug\SyncSocketsConsole.exe.config
+C:\Users\Win10\Source\Repos\NetworkingSamples\SyncSocketsConsole\bin\Debug\SyncSocketsConsole.exe
+C:\Users\Win10\Source\Repos\NetworkingSamples\SyncSocketsConsole\bin\Debug\SyncSocketsConsole.pdb
+C:\Users\Win10\Source\Repos\NetworkingSamples\SyncSocketsConsole\obj\Debug\SyncSocketsConsole.csprojAssemblyReference.cache
+C:\Users\Win10\Source\Repos\NetworkingSamples\SyncSocketsConsole\obj\Debug\SyncSocketsConsole.exe
+C:\Users\Win10\Source\Repos\NetworkingSamples\SyncSocketsConsole\obj\Debug\SyncSocketsConsole.pdb
